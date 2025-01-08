@@ -30,6 +30,7 @@ I'm a backend developer passionate about creating efficient and scalable solutio
 ## 📈 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reisorz&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reisorz&layout=compact)
 
 
 
