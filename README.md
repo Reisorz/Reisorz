@@ -34,4 +34,6 @@ I'm a backend developer passionate about creating efficient and scalable solutio
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reisorz&layout=compact&theme=algolia"
 </p>
 
+<p align="center">
 Thank you for visiting my profile!
+</p>
