@@ -28,12 +28,9 @@ I'm a backend developer passionate about creating efficient and scalable solutio
 - [**BasicAuth**](https://github.com/Reisorz/BasicAuth): Register, login and logout with basic authentication. *Technologies:* Java, Spring Boot, MySQL, Angular, TypeScript, Basic Authentication, HTML, CSS.
 
 ## 📈 GitHub Statistics
-<div height="180em">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reisorz&show_icons=true&theme=radical)
-</div>
-<div height="180em">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reisorz&layout=compact)
-</div>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Reisorz&show_icons=true&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reisorz&layout=compact"
 
 
 Thank you for visiting my profile!
