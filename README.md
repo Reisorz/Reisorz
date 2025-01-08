@@ -29,8 +29,8 @@ I'm a backend developer passionate about creating efficient and scalable solutio
 
 ## 📈 GitHub Statistics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Reisorz&show_icons=true&theme=radical"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reisorz&layout=compact"
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Reisorz&show_icons=true&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reisorz&layout=compact&theme=algolia"
 
 
 Thank you for visiting my profile!
