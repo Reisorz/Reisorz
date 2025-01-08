@@ -5,7 +5,7 @@ I'm a junior backend developer passionate about creating efficient and scalable 
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/miguel-lopez-sanchez)
-- [Email](miguel95@lopezsanchez@gmail.com)
+- **Email:** [miguel95lopezsanchez@gmail.com](mailto:miguel95lopezsanchez@gmail.com)
 
 ## 🚀 Technologies and Tools
 
