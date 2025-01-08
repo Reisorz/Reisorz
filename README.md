@@ -9,7 +9,7 @@ I'm a backend developer passionate about creating efficient and scalable solutio
 
 ## 🚀 Technologies and Tools
 
-- **Programming Languages:** Java, TypeScript, HTML, CSS
+- **Programming Languages:** Java, TypeScript, HTML, CSS, JavaScript
 - **Frameworks:** Spring Boot, Angular
 - **Databases:** MySQL
 - **Version Control:** Git, GitHub
