@@ -17,15 +17,15 @@ I'm a backend developer passionate about creating efficient and scalable solutio
 
 ## 🌟 Featured Projects
 
-- [**Expense-Tracker-API**](https://github.com/Reisorz/Expense-Tracker-API): API to store the expenses of diferent users in a DB, using JWT for authentication. *Technologies:* Java, Spring Boot, MySQL, JWT.
+- [**Expense-Tracker-API**](https://github.com/Reisorz/Expense-Tracker-API): API to store the expenses of diferent users in a DB, using JWT for authentication. *Technologies:* Java, Spring Boot, MySQL, JWT, TypeScript, Angular, HTML, CSS.
 
-- [**Expense-Tracker-Frontend**](https://github.com/Reisorz/Expense-Tracker-Frontend): Frontend for Expense-Tracker-Api. App to store the expenses of diferent users in a DB, using JWT for authentication. *Technologies:* TypeScript, Angular, HTML, CSS.
+- [**Markdown-Note-taking-App**](https://github.com/Reisorz/Markdown-Note-taking-App-Backend): Markdonw note taking app that lets users upload markdown files, check the grammar, save the note in DB, and render it in HTML. . *Technologies:* Java, Spring Boot, MySQL, TypeScript, Angular, HTML, CSS.
 
-- [**Weather-API**](https://github.com/Reisorz/Weather-API): Weather API wrapper service with Redis caching for efficient data retrieval. *Technologies:* Java, Spring Boot, Redis, HTML, CSS.
+- [**Weather-API**](https://github.com/Reisorz/Weather-API): Weather API wrapper service with Redis caching for efficient data retrieval. *Technologies:* Java, Spring Boot, Redis, HTML, CSS, Angular, TypeScript.
 
 - [**Blog-API**](https://github.com/Reisorz/Blog-API): API Rest with 2 related tables and basic CRUD. *Technologies:* Java, Spring Boot, MySQL, Angular, TypeScript, HTML, CSS.
 
-- [**BasicAuth**](https://github.com/Reisorz/BasicAuth): Register, login and logout with basic authentication. *Technologies:* Java, Spring Boot, MySQL, Angular, TypeScript, Basic Authentication, HTML, CSS.
+- [**BasicAuth**](https://github.com/Reisorz/BasicAuth): Register, login and logout with basic authentication. *Technologies:* Java, Spring Boot, MySQL, Basic Authentication, Angular, TypeScript, HTML, CSS.
 
 ## 📈 GitHub Statistics
 
