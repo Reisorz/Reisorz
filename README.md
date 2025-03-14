@@ -13,7 +13,7 @@ I'm a backend developer passionate about creating efficient and scalable solutio
 - **Frameworks:** Spring Boot, Angular
 - **Databases:** MySQL
 - **Version Control:** Git, GitHub
-- **Others:** JWT, Redis, RESTful APIs, Postman
+- **Others:** JWT, Redis, RESTful APIs, Postman, JUnit, Mockito
 
 ## 🌟 Featured Projects
 
